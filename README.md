@@ -4,9 +4,9 @@ Submitted in Partial Fulfillment of the Requirements for the Degree of Bachelors
 
 Submitted by:
 [Ashok Nath ](https://github.com/ashknth/)
-[Richa Mishra ](https://github.com/hricha007)
-[Pooja Bajagain ](https://github.com/bpooja1)
-[Narendra Ayer](https://github.com/NarenAyer)
+<br>[Richa Mishra ](https://github.com/hricha007)
+<br>[Pooja Bajagain ](https://github.com/bpooja1)
+<br>[Narendra Ayer](https://github.com/NarenAyer)
 
 Under the supervision of
 [Prof. Dr. Roshan Chitrakar](https://github.com/roshanchi)
