@@ -1,13 +1,15 @@
 # Final-Year-Project
-A Major Project Final Report on
-Student Attendance Log Keeping Using Face Recognition
-Submitted in Partial Fulfillment of the Requirements for
-the Degree of Bachelors of Engineering in Computer Engineering under Pokhara University
+A Major Project Final Report on Student Attendance Log Keeping Using Face Recognition
+Submitted in Partial Fulfillment of the Requirements for the Degree of Bachelors of Engineering in Computer Engineering under Pokhara University
 
 Submitted by:
-Ashok Nath, 171204 Richa Mishra,171231 Pooja Bajagain,171222 Narendra Ayer,171219
+[Ashok Nath ](https://github.com/ashknth/)
+[Richa Mishra ](https://github.com/hricha007)
+[Pooja Bajagain ](https://github.com/bpooja1)
+[Narendra Ayer](https://github.com/NarenAyer)
+
 Under the supervision of
-Prof. Dr. Roshan Chitrakar
+[Prof. Dr. Roshan Chitrakar](https://github.com/roshanchi)
 
 Date:
 17 Sep, 2022
